@@ -1,4 +1,4 @@
-# Retail Analytics Project (SQL + Python)
+# Superstore Retail Analytics Project (SQL + Python)
 
 ## Overview
 
