@@ -1,4 +1,3 @@
-=======
 # **Superstore Retail Analytics Project (SQL + Python)**
 =======
 
